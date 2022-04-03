@@ -1,0 +1,7 @@
+{
+  "name": "my-nuxt-app-api",
+  "profile": "default",
+  "lambda": {
+    "runtime": "nodejs14.x"
+  }
+}
